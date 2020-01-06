@@ -1,0 +1,3 @@
+#geg: Tempeeatur in Grad Celsius C
+#geg: Temperatur in Grad Kelvin
+K= C + 273.15
